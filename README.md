@@ -1,8 +1,26 @@
-- 👋 Hi, I’m @Chinese-xuyang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Name:xuyang
+-
+Gender:male
+-
+Birth:1999.6
+-
+From:China
+-
+Email:china.xy1998@gmail.com
+-
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!---
 Chinese-xuyang/Chinese-xuyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
