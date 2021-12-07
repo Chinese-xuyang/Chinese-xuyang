@@ -1,12 +1,12 @@
-Name:xuyang
+Name:<pre>xuyang
 -
-Gender:male
+Gender:<pre>male
 -
-Birth:1999.6
+Birth:<pre>1999.6
 -
-From:China
+From:<pre>China
 -
-Email:china.xy1998@gmail.com
+Email:<pre>china.xy1998@gmail.com
 -
 
 
